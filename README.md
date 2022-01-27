@@ -1,4 +1,5 @@
-
+Guys,
+Sharing some experiences of my Ph.D. Journey:
 
 # HOW TO READ A RESEARCH PAPER IN 30 Mins
 1. KEYWORDS AND TITLE - Look at the paper's keywords and title. If not interesting, stop.
