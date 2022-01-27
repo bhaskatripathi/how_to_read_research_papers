@@ -26,3 +26,5 @@ Assumption - You have don the scientific literature analysis beforehand and you 
 8. Then comes the abstract and the acknowledgements;
 9. Now comes the introduction, the two most important things to address in which are the purpose and relevant background;
 10. Then collect the references.
+
+HAPPY WRITING !!
